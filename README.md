@@ -1,5 +1,5 @@
 # Arules
 
 - Arules Data Mining instruction
-- code by frank jihoon lee
-- comments and Korean explanation by Peter Cha.
+- first code by frank jihoon lee
+- Some modifications & Korean explanation comments by Peter Cha.
